@@ -1,6 +1,6 @@
 # Minimum Viable Product (MVP)
 
-## How does different factors affect the global success of a movie?
+## What factors predict the global success of a movie?
 
 Analizing differents quantitative features like Budget, Worldwide Gross, Domestic Gross, Running Time, and Wide Release. We created a model to see which factors affects on the global succes of a movie.
 
