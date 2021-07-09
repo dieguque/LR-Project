@@ -45,7 +45,7 @@ During this featured engineering **Ridge CV** was used:
   - Matplotlib, Seaborn, Numpy, and StatsModels for plotting.
 
 ## Communication
-By using [this link provided](https://github.com/dieguque/Movies_Project/blob/8894bba9708f39c6f119e8d86d63969902eb2633/movies_presentation.pdf), the slides used during the presentation may be accessed. On the chart below, I have summarized the project findings.
+By using [this link provided](https://github.com/dieguque/Movies_Project/blob/8894bba9708f39c6f119e8d86d63969902eb2633/movies_presentation.pdf), the slides used during the presentation may be accessed.
 
 
 
