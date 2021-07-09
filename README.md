@@ -5,7 +5,7 @@ Diego Duque
 The goal of this project is to see if it is possible to predict the success of a movie and which factors affect the success of a movie using public data. The [Box Office Mojo](https://www.boxofficemojo.com) website was used to get the data through scraping. I used Python BeautyfulSoup for the whole scraping process and other packages for the modeling.
 
 ## Design
-A hypothetical situation was created where a new movie studio asked us to see if it possible to predict the success of a movie and what are the key factors that make it possible. Consequently, I was approached to do asume the Data Science consultant role. The client explicitly asked to use the [Box Office Mojo](https://www.boxofficemojo.com) website and present the results.
+A hypothetical situation was created where a new movie studio asked us to see if it possible to predict the success of a movie and what are the key factors that make it possible. Consequently, I was approached to assume the Data Science consultant role. The client explicitly asked to use the [Box Office Mojo](https://www.boxofficemojo.com) website and present the results.
 
 ## Data
 The data scrapped includes all the movies from 2010 to 2019. This data was scraped using BeautyfulSoup which is an efficient package to scrape multiple websites using Python algorithms. In total 2000 movies were scraped and 1151 used after cleaning the data.
