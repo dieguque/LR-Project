@@ -32,7 +32,7 @@ During this featured engineering **Ridge CV** was used:
 ### Ridge CV
 <img src="https://github.com/dieguque/Movies_Project/blob/1c7cabb094fc652e908c4d246719a2a6cb79ee70/charts/movies_ridge_log_jointplot.png" >
   
-Also we used **LASSO CV** :  
+**LASSO CV** was also used:  
   R^2 = 0.894
 ### LASSO CV
 <img src="https://github.com/dieguque/Movies_Project/blob/1c7cabb094fc652e908c4d246719a2a6cb79ee70/charts/movies_lasso_log_jointplot.png" >
