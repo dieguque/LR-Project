@@ -11,10 +11,10 @@ A hypothetical situation was created where a new movie studio asked us to see if
 The data scraped includes all the movies from 2010 to 2019. This data was scraped using BeautyfulSoup which is an efficient package to scrape multiple websites using Python algorithms. In total 2000 movies were scraped and 1151 used after cleaning the data.
 
 ## Algorithms
-*Scraping*
+*Scraping*:
 The open-source software Jupyter Notebook was used running Python tools to clean, aggregate, and visualize the data.
 
-*Modeling*
+*Modeling*:
 Linear Regression (OLS) was used to analyze the numerical values: Budget, Widest Release and Runtime (in minutes):
   R^2 = 0.587.
 ### OLS (numerical values)
